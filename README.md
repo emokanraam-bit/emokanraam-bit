@@ -79,6 +79,10 @@ currently_building:
 
 🎖️ **Zerve AI Hackathon Participant**
 
+---
+
+## 🥇 Certifications
+
 ✅ GitHub Copilot Certification (GH-300)
 
 ✅ Google Certified Generative AI Engineer
