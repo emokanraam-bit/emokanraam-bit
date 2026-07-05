@@ -101,9 +101,13 @@ currently_building:
 
 ✅ Google Certified Generative AI Engineer
 
-✅ Introduction to MCP
+✅ Introduction to MCP - Claude
 
 ✅ Claude Certified Architect – Foundations (CCA-F)
+
+✅ AI Business Professional Certification (AB 730)
+
+✅ AI Transformation Leader Certification (AB 731)
 
 ---
 
